@@ -7,6 +7,8 @@
   "scripts": {
     "multiplier": "nodemon ./js/multiplier",
     "numbers":"nodemon ./js/numbers.js",
+    "table1":"nodemon ./js/table-1.js",
+    "table2":"nodemon ./js/table-2.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
