@@ -1,1 +1,0 @@
-const n1 = 1; const n2 = 2;
